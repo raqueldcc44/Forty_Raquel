@@ -2,8 +2,8 @@
 *.bak
 
 # Ignorar archivos específicos
-README.md
-LICENCE.txt
+README.txt
+LISENCE.txt
 passwords.txt
 
 #Database
